@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  store-api-chart:
+  - apiVersion: v2
+    appVersion: v1.0.2
+    created: "2021-09-14T18:28:55.474650986Z"
+    description: A Helm chart for Kubernetes with store app
+    digest: e399dfcf7771203e3c325febc54aca5443aaee536e6311a6fd3318479cab6ae5
+    name: store-api-chart
+    type: application
+    urls:
+    - https://github.com/ramazziniade/helm-charts/releases/download/store-api-chart-1.0.0/store-api-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-09-14T18:28:55.474656586Z"
